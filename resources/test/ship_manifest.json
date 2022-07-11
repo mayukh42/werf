@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "name": "Gigabyte Eagle RX 6600",
+            "type": "Electronics",
+            "desc": "AMD GPU",
+            "origin": "China",
+            "weight": 0.7,
+            "price": 309.99
+        },
+        {
+            "name": "Sapphire Nitro+ RX 6900 XT",
+            "type": "Electronics",
+            "desc": "AMD GPU",
+            "origin": "Taiwan",
+            "weight": 0.9,
+            "price": 949.99
+        },
+        {
+            "name": "Asus TUF RX 6700 XT OC",
+            "type": "Electronics",
+            "desc": "AMD GPU",
+            "origin": "Taiwan",
+            "weight": 0.9,
+            "price": 579.99
+        }
+    ],
+    "date": "2022-07-09 15:04:05.000"
+}

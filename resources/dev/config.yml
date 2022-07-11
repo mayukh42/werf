@@ -1,0 +1,28 @@
+app:
+  host: "localhost"
+  port: 7000
+
+log:
+  location: "/var/log/dev"
+  service: "werf"
+  level: "info"
+  file: "worker.log"
+
+aws:
+  region: "us-east-1"
+  host: "localhost"
+  port: 4566
+  account_id: "000000000000"
+  dev: true
+  sqs:
+    name: "werf-test"
+    is_fifo: false
+    visibility_timeout: 2
+    retention: 86400
+    context_timeout: 100
+    poll_interval: 300
+    log:
+      location: "/var/log/dev"
+      service: "werf"
+      level: "info"
+      file: "worker.log"

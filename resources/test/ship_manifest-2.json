@@ -1,0 +1,21 @@
+{
+    "items": [
+        {
+            "name": "Asus Dual RX 6600",
+            "type": "Electronics",
+            "desc": "AMD GPU",
+            "origin": "China",
+            "weight": 0.7,
+            "price": 329.99
+        },
+        {
+            "name": "Asus Dual OC RX 6700 XT",
+            "type": "Electronics",
+            "desc": "AMD GPU",
+            "origin": "Taiwan",
+            "weight": 0.9,
+            "price": 539.99
+        }
+    ],
+    "date": "2022-07-10 15:04:05.000"
+}
